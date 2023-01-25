@@ -1,0 +1,4 @@
+# timez requirements
+
+Flask==1.1.1
+pytz==2019.2

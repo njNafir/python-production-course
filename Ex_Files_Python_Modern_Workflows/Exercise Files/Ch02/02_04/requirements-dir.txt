@@ -1,0 +1,5 @@
+# requirement file using shared folder
+
+--find-links file:///opt/packages
+lilmath==0.1.0  # company package
+Flask==1.1.1  # Package from PyPI

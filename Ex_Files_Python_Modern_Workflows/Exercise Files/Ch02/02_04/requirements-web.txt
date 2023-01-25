@@ -1,0 +1,5 @@
+# requirement file using web server
+
+--find-links http://localhost:8000
+lilmath==0.1.0  # company package
+Flask==1.1.1  # Package from PyPI
